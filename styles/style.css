@@ -67,9 +67,9 @@ ol {
 }
 
 .result__video-container {
+  margin: 0 0 11px;
   position: relative;
   inline-size: 711px;
-  margin: 0 0 11px;
 }
 
 .content__list-item {
