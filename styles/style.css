@@ -57,7 +57,7 @@ ol {
 }
 
 .content__list {
-  block-size: 298px;
+  block-size: 301px;
   position: relative;
   overflow-y: auto;
 }
@@ -69,7 +69,7 @@ ol {
 .result__video-container {
   margin: 0 0 11px;
   position: relative;
-  inline-size: 711px;
+  inline-size: 712px;
 }
 
 .content__list-item {
@@ -87,7 +87,7 @@ ol {
 
 .content__video-card-thumbnail {
   inline-size: 190px;
-  block-size: 104px;
+  block-size: 106px;
   object-fit: cover;
   object-position: center;
 }
@@ -106,14 +106,13 @@ ol {
 }
 
 .title {
-  padding: 0 0 23px;
+  padding: 0px 1px 17px;
   font-family: 'Oswald', sans-serif;
   font-weight: 700;
-  font-size: 75px;
+  font-size: 74px;
   color: #fff;
   line-height: 70.5px;
   text-transform: uppercase;
-  margin-top: -5px;
 }
 
 .content__accent {
